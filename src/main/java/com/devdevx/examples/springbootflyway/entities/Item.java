@@ -1,4 +1,4 @@
-package com.devdevx.examples.springbootflyway;
+package com.devdevx.examples.springbootflyway.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
